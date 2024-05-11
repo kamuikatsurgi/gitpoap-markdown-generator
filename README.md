@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to GitPOAP Markdown Generator 👋<h1>
+# GitPOAP Markdown Generator
 
 ## Setting up the project locally
 
